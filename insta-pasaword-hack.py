@@ -1,7 +1,7 @@
 /* -----------------------------------------------
-/* Author : ibrahim21 -ibrahim21.In
+/* Author : hckibra4 -hckibra4.In
 
-/* GitHub : https://github.com/ibrhim21/SocialBox.git
+/* GitHub : https://github.com/hckibra4/insta-hack.git
 /* ----------------------------------------------- */
   from random import choice,choice,choices
        numbers=(1,2,3,4,5,6,7,8,9,0,"İbrahim","adaballi")
