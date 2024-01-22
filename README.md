@@ -3,5 +3,5 @@ Merhaba arkadaşlar bugün sizlere Paydroid 3 ile nasıl Instagram,tiktok, Twitt
 Pydroid 3 - IDE for Python 3 - Google Play'de Uygulamalar indirin https://g.co/kgs/LcQjo46
 
 *daha sonra                                           
-https://github.com/hckibra4/insta-hack.git*
+https://github.com/hckibra4/insta-hack/insta-pasaword-hack.py
 Author : hckibra4 -hckibra4.In
